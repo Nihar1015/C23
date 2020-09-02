@@ -1,2 +1,1 @@
-# C23
-C23 vcs
+# Box Class
